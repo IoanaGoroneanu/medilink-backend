@@ -1,0 +1,4 @@
+host = "0.0.0.0"
+port = "9091"
+database_url = "postgres://localhost/clinic_db"
+jwt_secret = "ee20dfe7-c646-4d6b-852e-34ac1a4931d5"

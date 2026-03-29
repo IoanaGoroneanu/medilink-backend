@@ -1,0 +1,9 @@
+pub mod patient_signup;
+pub mod clinic_signup;
+pub mod clinic_login;
+pub mod add_doctor;
+pub mod patient_login;
+pub mod list_doctors;
+pub mod book_appointment;
+pub mod get_appointments;
+pub mod cancel_appointment;
