@@ -53,7 +53,7 @@ cd medilink-backend
 sqlx database create --database-url "postgres://localhost/clinic_db"
 ```
 
-3. Create a configuration file at the root of the project. The application supports both TOML configuration files and environment variables. Create a `config.toml` file:
+3. Create a configuration file at the root of the project. The application supports both TOML configuration files and environment variables. Create a `config/app.toml` file:
 ```toml
 host = "127.0.0.1"
 port = 8080

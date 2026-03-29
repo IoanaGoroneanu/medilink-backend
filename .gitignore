@@ -1,3 +1,4 @@
 .env
 *.toml
 target/
+config/app.toml
